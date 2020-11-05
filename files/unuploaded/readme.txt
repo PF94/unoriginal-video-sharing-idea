@@ -1,0 +1,1 @@
+This is a folder of files that aren't here because they are gitignored.
